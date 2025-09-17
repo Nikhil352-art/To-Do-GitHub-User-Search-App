@@ -67,6 +67,10 @@ The production-ready files will be in the `dist/` directory.
 
 ---
 
+## 💻 Live Demo
+
+**Try it now:** (https://to-do-git-hub-user-search-app.vercel.app/)
+
 ## 📚 Features
 
 - **Home Page:** Quick navigation to To-Do or GitHub search.
@@ -78,5 +82,5 @@ The production-ready files will be in the `dist/` directory.
 ## 📝 Notes
 
 - Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) installed.
-- This project uses the public [GitHub Users API](https://github.com/Nikhil352-art) for fetching user profiles.
+
 
