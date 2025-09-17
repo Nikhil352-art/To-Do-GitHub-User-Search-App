@@ -78,5 +78,5 @@ The production-ready files will be in the `dist/` directory.
 ## 📝 Notes
 
 - Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) installed.
-- This project uses the public [GitHub Users API](https://github.com/Nikhil352-art/To-Do-GitHub-User-Search-App.git) for fetching user profiles.
+- This project uses the public [GitHub Users API](https://github.com/Nikhil352-art) for fetching user profiles.
 
