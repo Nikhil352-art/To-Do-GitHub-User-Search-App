@@ -41,7 +41,7 @@ A simple multi-page React application bootstrapped with **Vite** that features:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/Nikhil352-art/To-Do-GitHub-User-Search-App.git
    cd YOUR_REPO_NAME
    ```
 
@@ -78,5 +78,5 @@ The production-ready files will be in the `dist/` directory.
 ## 📝 Notes
 
 - Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) installed.
-- This project uses the public [GitHub Users API](https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28#get-a-user) for fetching user profiles.
+- This project uses the public [GitHub Users API](https://github.com/Nikhil352-art/To-Do-GitHub-User-Search-App.git) for fetching user profiles.
 
